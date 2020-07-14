@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-# coding: utf_8
+# -*- coding: utf-8 -*
 
 print("こんにちわ")
